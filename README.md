@@ -26,10 +26,10 @@ This implementation is based on the logic and URL structures found in the origin
 
 #### 1. Prerequisites
 
-Ensure you have Python installed. You will need the `requests` library:
+Ensure you have Python 3.9+ installed. You will need the `requests` library:
 
 ```bash
-pip install requests
+pip install -r requirements.txt
 ```
 
 #### 2. Configuration
